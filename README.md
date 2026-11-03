@@ -48,4 +48,4 @@ Aplicação web acadêmica para gerenciamento de livros, clientes, funcionários
 
 
 
-Continuar a aprimorar meus conhecimentos, desenvolver novas habilidades e ampliar minha experiência profissional. Busco oportunidades de estágio em qualquer área da Tecnologia da Informação, com interesse em conhecer diferentes campos de atuação e adquirir conhecimentos além daqueles que já fazem parte da minha formação.
+
