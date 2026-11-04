@@ -14,7 +14,6 @@ Busco oportunidades de estágio em qualquer área da Tecnologia da Informação,
 **Frontend**
 - HTML
 - CSS
-- JavaScript 
 - Bootstrap
 
 **Backend e programação**
